@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Brajgit
+- 👋 Hi, I’m @BrajGit
 - 👀 I’m interested in Making great idea in real life.
 - 🌱 I’m currently learning Data Science from IITM and Computer Science from Asansol engineering college.
 - 💞️ I’m looking to collaborate on ...
